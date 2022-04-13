@@ -7,6 +7,7 @@ for (let i = 0; i < squares; i++) {
     inputElement.setAttribute('type', 'number')
     inputElement.setAttribute('min','0')
     inputElement.setAttribute('max','9')
+    puzzleBoard.appendChild(inputElement)
 }
 
 
