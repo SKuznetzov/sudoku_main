@@ -1,2 +1,2 @@
-document.querySelector('#puzzle')
-document.querySelector('#solve-button')
+const puzzle = document.querySelector('#puzzle')
+const solveButton = document.querySelector('#solve-button')
