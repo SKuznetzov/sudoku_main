@@ -8,6 +8,7 @@
     height: 50px;
     box-sizing: border-box;
     border-spacing: 0;
+    border: 1px solid gray;
 }
 
 
