@@ -10,4 +10,6 @@ for (let i = 0; i < squares; i++) {
     puzzleBoard.appendChild(inputElement)
 }
 
-
+const joinValues = () => {
+    
+}
