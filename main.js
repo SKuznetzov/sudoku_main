@@ -20,4 +20,12 @@ const joinValues = () => {
             submission.push('.')
         }
     })
+console.log(submission)
+
 }
+
+solveButton.addEventListener('click',joinValues)
+
+
+
+
