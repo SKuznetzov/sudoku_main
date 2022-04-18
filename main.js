@@ -24,6 +24,13 @@ console.log(submission)
 
 }
 
+const solve = () => {
+    
+}
+
+
+
+
 solveButton.addEventListener('click',joinValues)
 
 
